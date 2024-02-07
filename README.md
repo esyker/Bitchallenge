@@ -50,11 +50,11 @@ being used, the console remains in standby state and saves energy.
 
 #### Cost of Materials
 
-However, not all purchased materials were used (e.g.
+Not all purchased materials were used (e.g.
 we only used one of the 10 prototyping boards), so:
 Actual cost of the prototype (estimate): €23.69.
 
-* Arduinto €20.
+* Arduino €20.
   
 * Display Nokia 5110
 ![image](https://github.com/esyker/Bitchallenge/assets/50277636/ecd71e51-a081-4b4a-8171-44e76d5800a2)
